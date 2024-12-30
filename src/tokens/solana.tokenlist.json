@@ -4,6 +4,6 @@
   "symbol": "MTK",
   "name": "MyToken",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/rollingdog/token-list/main/test-coin.png",
+  "logoURI": "https://raw.githubusercontent.com/rollingdog/token-list/main/assets/test-coin.png",
   "tags": ["utility-token"]
 }
